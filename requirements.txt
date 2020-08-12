@@ -7,7 +7,7 @@ awsebcli==3.17.1
 backcall==0.1.0
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
-bleach==3.1.0
+bleach==3.1.4
 blessed==1.17.2
 botocore==1.14.13
 bs4==0.0.1
